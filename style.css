@@ -1,4 +1,9 @@
 html, body {
+  font-family: arial;
   height: 100%;
   width: 100%;
+}
+p {
+  font-family : times new roman;
+  color: Blue;
 }
